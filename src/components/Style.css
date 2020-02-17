@@ -1,0 +1,32 @@
+.button {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.4em;
+    background-color: #e0e1e6;
+    color: #888;
+    outline: 1px solid #888;
+    cursor: pointer;
+
+}
+
+.operator {
+    background-color: #B3599F;
+    color: #ffffff;
+}
+
+.input {
+    display: flex;
+    height: 4em;
+    flex: 1;
+    background-color: #ffff;
+    outline: 1px solid #888;
+    justify-content: flex-end;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 1.4em;
+    align-items: center;
+}
